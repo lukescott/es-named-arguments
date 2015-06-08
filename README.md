@@ -2,7 +2,7 @@
 
 This proposal introduces named arguments.
 
-Works well with (es-type-hinting)[https://github.com/lukescott/es-type-hinting/blob/master/README.md].
+Works well with [es-type-hinting](https://github.com/lukescott/es-type-hinting/blob/master/README.md).
 
 ### Examples ###
 
